@@ -1,9 +1,9 @@
-# portkill-cli
+# portkill
 
 > Fast, cross-platform CLI tool to kill whatever process is holding your port hostage. **Zero dependencies.**
 
-[![npm version](https://img.shields.io/npm/v/portkill-cli.svg)](https://www.npmjs.com/package/portkill-cli)
-[![license](https://img.shields.io/npm/l/portkill-cli.svg)](LICENSE)
+[![npm version](https://img.shields.io/npm/v/@harsha1029/portkill.svg)](https://www.npmjs.com/package/@harsha1029/portkill)
+[![license](https://img.shields.io/npm/l/@harsha1029/portkill.svg)](LICENSE)
 
 ---
 
@@ -49,7 +49,7 @@ portkill 3000
 ### Global Install (Recommended)
 
 ```bash
-npm install -g portkill-cli
+npm install -g @harsha1029/portkill
 ```
 
 ### Run Instantly via `npx`
@@ -57,7 +57,7 @@ npm install -g portkill-cli
 Without installing globally:
 
 ```bash
-npx portkill-cli 3000
+npx @harsha1029/portkill 3000
 ```
 
 ---
