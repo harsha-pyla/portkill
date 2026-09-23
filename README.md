@@ -5,6 +5,12 @@
 [![npm version](https://img.shields.io/npm/v/@harsha1029/portkill.svg)](https://www.npmjs.com/package/@harsha1029/portkill)
 [![license](https://img.shields.io/npm/l/@harsha1029/portkill.svg)](LICENSE)
 
+<br />
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/harsha-pyla/portkill/main/assets/demo.png" alt="portkill terminal demo" width="800" />
+</p>
+
 ---
 
 ## The Problem

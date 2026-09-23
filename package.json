@@ -39,6 +39,7 @@
   "files": [
     "index.js",
     "README.md",
-    "LICENSE"
+    "LICENSE",
+    "assets"
   ]
 }
