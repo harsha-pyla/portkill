@@ -1,6 +1,6 @@
 {
   "name": "@harsha1029/portkill",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Cross-platform CLI tool to kill any process running on a specific port with zero dependencies.",
   "main": "index.js",
   "publishConfig": {
