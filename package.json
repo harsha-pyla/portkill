@@ -1,0 +1,41 @@
+{
+  "name": "portkill-cli",
+  "version": "1.0.0",
+  "description": "Cross-platform CLI tool to kill any process running on a specific port with zero dependencies.",
+  "main": "index.js",
+  "bin": {
+    "portkill": "./index.js"
+  },
+  "scripts": {
+    "test": "node index.js --help"
+  },
+  "keywords": [
+    "portkill",
+    "port",
+    "kill",
+    "kill-port",
+    "process",
+    "eaddrinuse",
+    "dev-tools",
+    "cli",
+    "cross-platform"
+  ],
+  "author": "harsha-pyla",
+  "license": "MIT",
+  "engines": {
+    "node": ">=14.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/harsha-pyla/portkill.git"
+  },
+  "bugs": {
+    "url": "https://github.com/harsha-pyla/portkill/issues"
+  },
+  "homepage": "https://github.com/harsha-pyla/portkill#readme",
+  "files": [
+    "index.js",
+    "README.md",
+    "LICENSE"
+  ]
+}
